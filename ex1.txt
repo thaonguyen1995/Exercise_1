@@ -1,1 +1,2 @@
 Bai tap so 1 - Git
+chinh sua lan thu 1 tu clone repo
